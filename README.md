@@ -52,7 +52,7 @@
 
 ## ✨ Proyecto Destacado
 
-### 🍽️ **The Wizard's Menu - Aplicación para un Restaurante Temático** 🪄
+### 🍽️ **The Three Broomsticks - Aplicación para un Restaurante Temático** 🪄
 
 🚀 Aplicación web inspirada en el mundo de Harry Potter, diseñada para mejorar la experiencia de los clientes mediante **pedidos en el local, take away y reservas**. La plataforma ofrece tres tipos de usuarios:
 
@@ -60,7 +60,7 @@
 - 🏅 **Empleado:** Gestiona reservas y pedidos pendientes.
 - 👑 **Administrador:** Administra usuarios, menús y productos.
 
-🔗 **Repositorio del Proyecto:** [The Wizard's Menu](https://github.com/tuusuario/wizards-menu)
+🔗 **Repositorio del Proyecto:** [The Three Broomsticks](https://github.com/Yan5030/PFHENRY-BACK.git)
 
 ---
 
